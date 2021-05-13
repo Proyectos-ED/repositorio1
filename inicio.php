@@ -3,5 +3,5 @@
 echo "<h2>ENTORNOS DE DESARROLLO</h2>";
 echo "Esta es mi primera página de php!";
 echo "Hoy hemos aprendido GIT!";
-echo "Hola jaja"
+echo "A ver si funciona ahora...";
 ?>
