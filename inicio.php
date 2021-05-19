@@ -7,5 +7,5 @@ echo "Hoy hemos aprendido GIT!";
 echo "<br>";
 echo "A ver si funciona ahora...";
 echo "<br>";
-echo "Funciona, pero no reconoce saltos de línea, y parece que tampoco las tildes...";
+echo "Todo funciona perfectamente, no hay nada que ver aquí.";
 ?>
